@@ -4,9 +4,5 @@ using namespace std;
 #define IOS ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 int main()
 {
-    int a=0,b=0;
-    int c;
-    c=a+b;
-    cout<<c<<endl;
-    cout<<(c+1);
+    return 0;
 }
